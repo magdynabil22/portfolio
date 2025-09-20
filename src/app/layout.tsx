@@ -39,9 +39,9 @@ export default async function RootLayout({
       <head>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
-        <link rel="icon" type="image/jpg" href="/images/avatar.jpg" />
-        <link rel="apple-touch-icon" href="/images/avatar.jpg" />
-        <meta name="msapplication-TileImage" content="/images/avatar.jpg" />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/favicon.ico" />
+        <meta name="msapplication-TileImage" content="/favicon.ico" />
         <script
           id="theme-init"
           dangerouslySetInnerHTML={{
