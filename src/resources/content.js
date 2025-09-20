@@ -9,7 +9,7 @@ const person = {
         return `${this.firstName} ${this.lastName}`;
     },
     role: "Frontend Developer and Software Engineer",
-    avatar: "/images/avatar.jpg",
+    avatar: "/images/avatar-professional.jpg",
     email: "magdy.nabil.wahba@gmail.com",
     phone: "+201279707819", // TODO: replace with your real phone number
     location: "Africa/Cairo", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
